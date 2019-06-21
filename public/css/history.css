@@ -1,0 +1,62 @@
+.history-body {
+  height: 100vh;
+  background: url("../images/history.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.table-responsive {
+  height: 300px;
+  width: 80% !important;
+}
+
+
+.table>tbody>tr>td>button.btn-success {
+  background-color: rgb(0, 172, 29);
+  border-radius: 10px;
+}
+
+table>tbody>tr>td>button.btn-primary,
+table>tbody>tr>td>button.btn-primary:hover,
+table>tbody>tr>td>button.btn-primary:focus {
+  background-color: rgb(0, 81, 255);
+  border-radius: 10px;
+}
+
+
+.table td,
+.table th {
+  vertical-align: middle;
+}
+
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  background-color: grey;
+
+}
+
+.payment-image {
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+  background-color:
+}
+
+.custom-file {
+  width: 400px;
+  margin-top: 20px;
+}
+
+.payment-modal {
+  width: 400px;
+  margin-left: 30px;
+}

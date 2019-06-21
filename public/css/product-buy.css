@@ -1,0 +1,18 @@
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  background-color: grey;
+
+}
+
+.product-buy-details{
+  /* padding-top: 70px; */
+}
+
+.product-buy-body{
+  height: 100vh;
+  background: url("../images/product-buy.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}

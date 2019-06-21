@@ -1,0 +1,86 @@
+.wrapper .content-wrapper .content {
+}
+
+.wrapper .content-wrapper .content-header {
+}
+
+.content-wrapper {
+	/*overflow: scroll;*/
+}
+
+.ml {
+	margin-left: 24px;
+}
+
+.language {
+	line-height: 45px;
+}
+
+.flag {
+	width: 25px;
+	height: 25px;
+	cursor: pointer;
+}
+
+.flag-seperator {
+	color: white;
+	margin: 0 5px;
+}
+
+.user-menu {
+	margin-right: 40px;
+	margin-left: 30px;
+}
+
+.main-header {
+	background-color: #435360;
+}
+
+.main-header a,
+.main-sidebar a {
+	color: white;
+}
+
+.main-sidebar {
+	background-color: #38434e;
+}
+
+.sidebar-menu .active-color {
+	background-color: #30b19b;
+}
+
+.treeview-menu {
+	padding-left: 0;
+}
+
+.content-header {
+	background-color: white;
+	height: 40px;
+	line-height: 40px;
+	padding-top: 0;
+	padding-left: 30px;
+	width: 100% !important;
+}
+
+.navbar-nav li .dropdown-toggle {
+	color: white !important;
+}
+
+.navbar-nav li a:hover,
+.navbar-nav li a:active,
+.navbar-nav li a:visited,
+.navbar-nav li a:link {
+	background-color: initial !important;
+}
+
+.dropdown-menu a {
+	color: #505050 !important;
+}
+
+.navbar-nav>.user-menu>.dropdown-menu {
+	width: auto;
+	padding: 12px 20px;
+}
+
+
+
