@@ -36,8 +36,8 @@ Berawal dari semakin kecilnya peluang mendapatkan pekerjaan di marketplace dan s
 composer install
 ```
 
-You might want to look at .env to configure the database
-2. If .env not exist copy .env.example and rename it to .env 
+You might want to look at .env to configure the database <br />
+2. If .env not exist copy .env.example and rename it to .env <br />
 3. If APP_KEY not generated run
 ```bash
 php artisan key:generate
